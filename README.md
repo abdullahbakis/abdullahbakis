@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdullahbakis
-- 👀 I’m interested in Java
+- 👀 I am skilled in Java, Spring Boot, RESTful APIs, and MySQL
 - 📫 You can reach me via my personal e-mail address: abdullahbakis1672@gmail.com
 
 <!---
